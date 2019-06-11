@@ -34,7 +34,7 @@ Skills demonstrated:
 
 ### Sovereign Project
 
-**[Code]() / [Research](https://github.com/robisoniv/self-sovereign-organization/tree/master/notes)**
+**[Code](https://github.com/robisoniv/self-sovereign-organization/tree/master/docs/contracts) / [Research](https://github.com/robisoniv/self-sovereign-organization/tree/master/notes)**
 
 To better understand the intricacies of autonomous organizations and improve my Solidity skills, I worked with a team to develop Sovereign Project, a vanilla Solidity implementation of a DAO to manage the informational and financial assets of a collaborative project on the Ethereum blockchain.
 
@@ -42,3 +42,5 @@ Skill demonstrated:
 - Solidity / web3.js
 - dApp design
 - Project management
+
+**Explore my [github](https://github.com/robisoniv/)**
